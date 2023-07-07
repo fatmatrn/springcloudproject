@@ -7,6 +7,9 @@
     <groupId>com.haydikodlayalim</groupId>
     <artifactId>microservice-app</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>config-server</module>
+    </modules>
     <version>10.0.1</version>
 
     <name>Spring Cloud Microservice App Template</name>
